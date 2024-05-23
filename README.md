@@ -6,11 +6,6 @@ Welcome to the React Color Picker App! This project is a simple yet powerful too
 ## 🚀 Features
 
 -   🌈 **Color Selection**: Choose any color from a color palette.
--   📝 **Hex Input**: Enter hex color codes directly.
--   🎨 **RGB Sliders**: Adjust colors using RGB sliders.
--   💾 **Save Favorites**: Save your favorite colors for easy access.
--   ⏳ **Color History**: Keep track of previously selected colors.
--   📱 **Responsive Design**: Works seamlessly on both desktop and mobile devices.
 
 ## 📸 Screenshots
 
@@ -21,12 +16,12 @@ To get started with the React Color Picker App, follow these steps:
 1.  **Clone the repository**:
    
     
-    `git clone https://github.com/yourusername/react-color-picker.git` 
+    `git clone https://github.com/lennylrz/Color-picker.git` 
     
 2.  **Navigate to the project directory**:
 
     
-    `cd react-color-picker` 
+    `cd Color-picker` 
     
 3.  **Install dependencies**:
 
@@ -47,10 +42,6 @@ To get started with the React Color Picker App, follow these steps:
 Once the app is up and running, you can:
 
 -   **Select a Color**: Click on the color palette to choose a color.
--   **Hex Input**: Type a hex color code into the input field.
--   **RGB Sliders**: Adjust the sliders to change the Red, Green, and Blue values.
--   **Save Favorites**: Click the save button to add the current color to your favorites list.
--   **View History**: Scroll through the history to revisit your previously selected colors.
 
 ## 🧩 Contributing
 
