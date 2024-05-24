@@ -16,12 +16,12 @@ To get started with the React Color Picker App, follow these steps:
 1.  **Clone the repository**:
    
     
-    `git clone https://github.com/lennylrz/Color-picker.git` 
+    `git clone https://github.com/lennylrz/Color-Picker.git` 
     
 2.  **Navigate to the project directory**:
 
     
-    `cd Color-picker` 
+    `cd Color-Picker` 
     
 3.  **Install dependencies**:
 
